@@ -38,6 +38,7 @@ Si deseas contactarme para colaboraciones o simplemente para charlar sobre tecno
 
 - Correo Electrónico: [hectorluisrivero14@gmail.com](mailto:hectorluisrivero14@gmail.com)
 - LinkedIn: [Héctor Luis Rivero](https://www.linkedin.com/in/hector-luis-rivero-311578260/)
+- Portafolio: [hlrivero18.com](https://web-portafolio-hlrivero18.vercel.app/)
 
 ¡Gracias por visitar mi perfil de GitHub!
 
